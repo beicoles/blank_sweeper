@@ -3,6 +3,9 @@ by: X TEAM
 
 Challenges: PLANETS NEAR AND FAR - Chasers of the Lost Data
 # Blank Sweeper
-![Alt text](/img/demo1.jpg)
 
-![Alt text](/img/demo2.jpg)
+* Oringin form with lost data  
+![Demo1](/img/demo1.jpg)
+
+* After filling out the form  
+![Demo2](/img/demo2.jpg)
